@@ -14,8 +14,8 @@ public class Main {
             short sh =56;
             Short sh1 = new Short((short)56);
 
-            float f = (float)4.7333436;
-            Float f1 = new Float((float) 4.7333436);
+            float f = 4.7333436f;
+            Float f1 = new Float( 4.7333436f);
 
             double d = 4.355453532;
             Double d1 = new Double(4.355453532);
